@@ -1,3 +1,3 @@
 # hello-world
 just another thing
-I amnew to all of this.
+I am new to all of this.
